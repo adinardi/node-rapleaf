@@ -1,0 +1,6 @@
+[submodule "lib/support/sequencer"]
+	path = lib/support/sequencer
+	url = git://github.com/adinardi/sequencer.git
+[submodule "lib/support/node-xml"]
+	path = lib/support/node-xml
+	url = git://github.com/robrighter/node-xml.git
